@@ -1,0 +1,6 @@
+# in production grade we install required library in this way 
+# by using command "pip install -r requirements.txt"
+flask
+flask_cors
+requests
+bs4
